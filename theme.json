@@ -1,0 +1,16 @@
+{
+  "name": "BSW Landing Theme",
+  "description": "Custom theme for Business Success Workshop landing page",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "theme_uri": "https://rajivtalreja.co.in",
+  "author_uri": "https://rajivtalreja.co.in",
+  "template": "",
+  "requires_wp": "5.0",
+  "requires_php": "7.0",
+  "license": "GPL-2.0-or-later",
+  "license_uri": "http://www.gnu.org/licenses/gpl-2.0.html",
+  "text_domain": "bsw-landing",
+  "tags": ["landing-page", "business", "elementor", "full-width"],
+  "screenshot": ""
+}
